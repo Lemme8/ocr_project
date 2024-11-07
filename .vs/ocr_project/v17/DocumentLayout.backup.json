@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moves\\source\\repos\\ocr_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EE013E-A062-46D0-A4FC-821A8BBDD013}|ocr_project.csproj|c:\\users\\moves\\source\\repos\\ocr_project\\controllers\\ocr_scan_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EE013E-A062-46D0-A4FC-821A8BBDD013}|ocr_project.csproj|solutionrelative:controllers\\ocr_scan_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moves\\AppData\\Local\\Temp\\.vsdbgsrc\\d5d03f19f5016920bb70f6ef3ae7af5f6e46b476b7d6881dc1096d2cdc4e249e\\ImageFormatManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EE013E-A062-46D0-A4FC-821A8BBDD013}|ocr_project.csproj|c:\\users\\moves\\source\\repos\\ocr_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9EE013E-A062-46D0-A4FC-821A8BBDD013}|ocr_project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EE013E-A062-46D0-A4FC-821A8BBDD013}|ocr_project.csproj|c:\\users\\moves\\source\\repos\\ocr_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EE013E-A062-46D0-A4FC-821A8BBDD013}|ocr_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moves\\.nuget\\packages\\ironocr\\2024.10.3\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageFormatManager.cs",
+              "DocumentMoniker": "C:\\Users\\moves\\AppData\\Local\\Temp\\.vsdbgsrc\\d5d03f19f5016920bb70f6ef3ae7af5f6e46b476b7d6881dc1096d2cdc4e249e\\ImageFormatManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d5d03f19f5016920bb70f6ef3ae7af5f6e46b476b7d6881dc1096d2cdc4e249e\\ImageFormatManager.cs",
+              "ToolTip": "C:\\Users\\moves\\AppData\\Local\\Temp\\.vsdbgsrc\\d5d03f19f5016920bb70f6ef3ae7af5f6e46b476b7d6881dc1096d2cdc4e249e\\ImageFormatManager.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d5d03f19f5016920bb70f6ef3ae7af5f6e46b476b7d6881dc1096d2cdc4e249e\\ImageFormatManager.cs [Read Only]",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAUwIgAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:17:38.957Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moves\\source\\repos\\ocr_project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\moves\\source\\repos\\ocr_project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T20:23:40.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moves\\source\\repos\\ocr_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moves\\source\\repos\\ocr_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:28:00.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocr_scan_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\moves\\source\\repos\\ocr_project\\Controllers\\ocr_scan_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\ocr_scan_Controller.cs",
+              "ToolTip": "C:\\Users\\moves\\source\\repos\\ocr_project\\Controllers\\ocr_scan_Controller.cs",
+              "RelativeToolTip": "Controllers\\ocr_scan_Controller.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:12:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\moves\\.nuget\\packages\\ironocr\\2024.10.3\\README.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\ironocr\\2024.10.3\\README.txt",
+              "ToolTip": "C:\\Users\\moves\\.nuget\\packages\\ironocr\\2024.10.3\\README.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\ironocr\\2024.10.3\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-01T19:11:07.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
