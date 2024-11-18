@@ -221,12 +221,29 @@ namespace ocr_project.Controllers
                 var buyer_2 = splt_data[3];
                 var seller_1 = splt_data[4];
                 var seller_2 = splt_data[5];
-                return Ok(new { raw_extract_data=text, effective_date, closing_date, buyer_1, buyer_2,seller_1,seller_2, splt_data });
+                var data = new extractData();
+                data.effectiveData = splt_data[0];
+                data.closingDate = splt_data[1];
+                data.buyer1Date = splt_data[2];
+                return Ok(new { data });
             }
             catch (Exception ex)
             {
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
+        }
+        public class extractData
+        {
+            public string? effectiveData { get; set; }
+            public string? closingDate { get; set; }
+            public string? buyer1Name { get; set; }
+            public string? buyer1Date { get; set; }
+            public string? buyer2Name { get; set; }
+            public string? buyer2Date { get; set; }
+            public string? seller1Name { get; set; }
+            public string? seller1Date { get; set; }
+            public string? seller2Name { get; set; }
+            public string? seller2Date { get; set; }
         }
 
     }
